@@ -1,0 +1,6 @@
+Purchase Bill Entry. Click on the Purchase to enter the Purchase and select the Purchase Entry again. If you do out -of -State Purchase, IGST Purchase, Excamped Goods Purchase, Bill of Supply Purchase, Local State Purchase and select GST Purchase and click the New button. Invoice Mode Cash, Cash, Credit Select Credit and Select Invoice State
+Click the button.
+Next, click the tab button to select the Ender Item.
+Click Control+F8 to create a supplier.
+Or if you pay from the bank, you should select the bank name and enter the check number. If you pay from a credit card or debit card, you should select the bank name and enter the transaction number and save. Click F3 for invoice saving. Click F10 for Save and Print. Click S for document upload. Select Webcom Manual or Web Com and Click on Brows
+Select the document path and click on the open. Enter the document name and click OK and close.

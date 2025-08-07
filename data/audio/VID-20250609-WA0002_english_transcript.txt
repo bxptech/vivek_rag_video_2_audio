@@ -1,0 +1,6 @@
+Dear customers, we need to click on cash to enter the amounts from customers. 
+After clicking on the receipts to enter the amounts we need to enter, you need to click on the receipt entry or click on Financial Voucher Maintains in Transactions. 
+If we have customers pay by the bank we click on the Bank Recipe and the New button
+Clicked.
+Is.
+The Save button should be clicked. The F10 Save and Print button should be clicked to take the Bill Print. To create a new account in the same screen, you need to click the F8 New Account button.

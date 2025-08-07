@@ -1,0 +1,8 @@
+ffmpeg-python
+numpy
+python-dotenv
+sarvamai
+faiss-cpu
+sentence-transformers
+transformers
+google-generativeai
