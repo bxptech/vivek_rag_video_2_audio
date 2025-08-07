@@ -1,6 +1,6 @@
 # main.py (or your existing RAG script)
 import os
-from src.video2audio import transcribe_video2_audio
+from video2audio import transcribe_video2_audio
 from src import sarvam, embedder, vector_store, rag_query
 import glob
 
