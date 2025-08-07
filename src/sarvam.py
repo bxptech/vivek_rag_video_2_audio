@@ -70,7 +70,8 @@
 import os
 import ffmpeg
 import math
-from sarvamai.SarvamAI import SarvamAI
+from SarvamAI import SarvamAI
+
 
 from dotenv import load_dotenv
 from googletrans import Translator  # For translation
