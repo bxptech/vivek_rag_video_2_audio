@@ -1,8 +1,12 @@
 # main.py (or your existing RAG script)
 import os
-from video2audio import transcribe_video2_audio
-from src import sarvam, embedder, vector_store, rag_query
 import glob
+
+from video2audio import transcribe_video2_audio
+import sarvam
+import embedder
+import vector_store
+import rag_query
 
 AUDIO_FOLDER = "data/audio/*.mp3"
 
